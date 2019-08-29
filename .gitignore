@@ -1,4 +1,8 @@
 /venv
 .vscode
 .vs
+.idea
 CppProperties.json
+CMakeLists.txt
+main.cpp
+cmake-build*
